@@ -1,0 +1,15 @@
+{
+    "author": "tinkorswim",
+    "gitHubUrl": "https://github.com/tinkorswim/hubitat-hpm-repository",
+    "packages": [
+        {
+            "name": "Neptune Apex Bridge",
+            "category": "Integrations",
+            "tags": [
+                "Pets & Animals"
+            ],
+            "location": "https://raw.githubusercontent.com/tinkorswim/hubitat-neptuneapex/main/hpmManifest.json",
+            "description": "Bridge for connecting to an Neptune Apex Controller"
+        }
+    ]
+}
