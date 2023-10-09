@@ -9,7 +9,7 @@
                 "Pets & Animals"
             ],
             "location": "https://raw.githubusercontent.com/tinkorswim/hubitat-neptuneapex/main/hpmManifest.json",
-            "description": "Monitoring and control a Neptune Systems Apex aquarium controller"
+            "description": "Monitor and control a Neptune Systems Apex aquarium controller"
         }
     ]
 }
