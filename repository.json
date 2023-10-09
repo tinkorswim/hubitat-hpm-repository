@@ -3,13 +3,13 @@
     "gitHubUrl": "https://github.com/tinkorswim/hubitat-hpm-repository",
     "packages": [
         {
-            "name": "Neptune Apex Bridge",
+            "name": "Neptune Apex Bridge (A3 Series)",
             "category": "Integrations",
             "tags": [
                 "Pets & Animals"
             ],
             "location": "https://raw.githubusercontent.com/tinkorswim/hubitat-neptuneapex/main/hpmManifest.json",
-            "description": "Bridge for connecting to an Neptune Apex Controller"
+            "description": "Monitoring and control a Neptune Systems Apex aquarium controller"
         }
     ]
 }
